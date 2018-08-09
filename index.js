@@ -1,4 +1,4 @@
-var uppercase = "HELLO!"
+var uppercase = "HELLO"
 var lowercase = 'hello'
 
 
