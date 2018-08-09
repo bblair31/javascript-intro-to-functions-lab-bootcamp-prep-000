@@ -1,5 +1,5 @@
 var uppercase = "HELLO!"
-var lowercase = 'hello!'
+var lowercase = 'hello'
 
 
 
